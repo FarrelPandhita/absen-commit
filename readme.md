@@ -25,20 +25,13 @@ A bash script that automatically generates GitHub contributions with customized 
 
 1. Clone or create a new repository:
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/FarrelPandhita/absen-commit.git
+cd absen-commit
 ```
 
-2. Create the script file:
+2. Make the script executable:
 ```bash
-nano generate-commits.sh
-```
-
-3. Copy the script content and save it
-
-4. Make the script executable:
-```bash
-chmod +x generate-commits.sh
+chmod +x absen.sh
 ```
 
 ## 🚀 Usage
@@ -47,7 +40,7 @@ chmod +x generate-commits.sh
 
 Simply run the script:
 ```bash
-./generate-commits.sh
+./absen.sh
 ```
 
 ### Customizing Date Range
@@ -126,7 +119,7 @@ git config user.email "your-email@example.com"
 
 ### Permission Denied
 ```bash
-chmod +x generate-commits.sh
+chmod +x absen.sh
 ```
 
 ### Date Format Issues
