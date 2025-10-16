@@ -157,4 +157,7 @@ If you find this project useful, please consider giving it a star ⭐
 
 ---
 
+## 🌟 Star This Repo
+Credits for @rafirh
+
 **Made with ❤️ for the GitHub community**
